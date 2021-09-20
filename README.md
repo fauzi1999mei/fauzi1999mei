@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fauzi1999mei
 - 👀 I’m interested in web devlopement
-- 🌱 I’m currently learning HTML, CSS, PHP, C++, and JavaScript
+- 🌱 I’m currently learning HTML, CSS, javaScript, MERN and reactNative
 - 💞️ I’m looking to collaborate on Web Devlopement
 - 📫 How to reach me riskysingaraja2018@gmail.com
 
