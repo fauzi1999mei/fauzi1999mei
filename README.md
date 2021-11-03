@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @fauzi1999mei
-- 👀 I’m interested in web devlopement
-- 🌱 I’m currently learning HTML, CSS, javaScript, MERN and reactNative
-- 💞️ I’m looking to collaborate on Web Devlopement
+- 👋 Hi, I’m mohammad rizki fauzi
+- 👀 I’m interested in data analyst and data science
 - 📫 How to reach me riskysingaraja2018@gmail.com
 
 <!---
