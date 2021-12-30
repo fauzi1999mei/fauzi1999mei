@@ -1,5 +1,5 @@
 - 👋 Hi, I’m mohammad rizki fauzi
-- 👀 I’m interested in data analyst and data science
+
 - 📫 How to reach me riskysingaraja2018@gmail.com
 
 <!---
