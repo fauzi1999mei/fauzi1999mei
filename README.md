@@ -1,6 +1,4 @@
-- 👋 Hi, I’m mohammad rizki fauzi
-
-- 📫 How to reach me riskysingaraja2018@gmail.com
+Ich bin lerne Maschinelles Lernen mit Quantenmechanik.
 
 <!---
 fauzi1999mei/fauzi1999mei is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
